@@ -1,3 +1,3 @@
 CV Portfolio
 
-![CV](/images/cv.png)
+![Products Table](/style/images/cv.png)
